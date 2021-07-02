@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "i-thelp-desk-home-page-client-side-solution",
+    "id": "25af9256-c6d5-4020-b60e-2e84a71d16b9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/i-thelp-desk-home-page.sppkg"
+  }
+}
